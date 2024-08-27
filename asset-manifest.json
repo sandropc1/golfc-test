@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/golfc-test/static/css/main.4167b27c.css",
-    "main.js": "/golfc-test/static/js/main.ea2636ea.js",
+    "main.css": "/golfc-test/static/css/main.90e4f3b1.css",
+    "main.js": "/golfc-test/static/js/main.5e6fcb11.js",
     "static/js/453.9a528691.chunk.js": "/golfc-test/static/js/453.9a528691.chunk.js",
     "static/media/Frame 4808 (2).svg": "/golfc-test/static/media/Frame 4808 (2).3844b6f142517db239e6186358fea99f.svg",
     "static/media/Component 4 (1).png": "/golfc-test/static/media/Component 4 (1).c9943ac6ad003460bd93.png",
@@ -24,12 +24,12 @@
     "static/media/CarbonaTest-Medium.otf": "/golfc-test/static/media/CarbonaTest-Medium.92ceee7cab67a2a3e3b3.otf",
     "index.html": "/golfc-test/index.html",
     "static/media/Rectangle 866.svg": "/golfc-test/static/media/Rectangle 866.9ce6d6448a4406b8e9748866dec68750.svg",
-    "main.4167b27c.css.map": "/golfc-test/static/css/main.4167b27c.css.map",
-    "main.ea2636ea.js.map": "/golfc-test/static/js/main.ea2636ea.js.map",
+    "main.90e4f3b1.css.map": "/golfc-test/static/css/main.90e4f3b1.css.map",
+    "main.5e6fcb11.js.map": "/golfc-test/static/js/main.5e6fcb11.js.map",
     "453.9a528691.chunk.js.map": "/golfc-test/static/js/453.9a528691.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4167b27c.css",
-    "static/js/main.ea2636ea.js"
+    "static/css/main.90e4f3b1.css",
+    "static/js/main.5e6fcb11.js"
   ]
 }
