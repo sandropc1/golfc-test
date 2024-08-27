@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/golfc-test/static/css/main.f5fb660c.css",
+    "main.js": "/golfc-test/static/js/main.c50dc3b8.js",
+    "static/js/453.9a528691.chunk.js": "/golfc-test/static/js/453.9a528691.chunk.js",
+    "static/media/Frame 4808 (2).svg": "/golfc-test/static/media/Frame 4808 (2).3844b6f142517db239e6186358fea99f.svg",
+    "static/media/Component 4 (1).png": "/golfc-test/static/media/Component 4 (1).c9943ac6ad003460bd93.png",
+    "static/media/Tela de Login.png": "/golfc-test/static/media/Tela de Login.a7eb4d41a2e573923815.png",
+    "static/media/Component 2.png": "/golfc-test/static/media/Component 2.745e20ae8da95b8e0d6c.png",
+    "static/media/soccer-stadium-full-people 1.jpg": "/golfc-test/static/media/soccer-stadium-full-people 1.8b6108f88502b9c8fa3b.jpg",
+    "static/media/Frame 4828 (1).svg": "/golfc-test/static/media/Frame 4828 (1).534d5c987974ce608ea55062f52ea448.svg",
+    "static/media/Frame 4827 (5).jpg": "/golfc-test/static/media/Frame 4827 (5).8b3da12b1c719229748d.jpg",
+    "static/media/Component 3 (1).png": "/golfc-test/static/media/Component 3 (1).cf3782df9fd05264ccf0.png",
+    "static/media/North-Zone.otf": "/golfc-test/static/media/North-Zone.fccc042f1c036a704a55.otf",
+    "static/media/TuskerGrotesk-6500Medium.ttf": "/golfc-test/static/media/TuskerGrotesk-6500Medium.457ec4b8d5973e00d91b.ttf",
+    "static/media/Tela de Registro 1.jpg": "/golfc-test/static/media/Tela de Registro 1.9f070ff6d5a3432b94e5.jpg",
+    "static/media/logo 05 6.svg": "/golfc-test/static/media/logo 05 6.5e4effbea32617b6c145c741c863e6cc.svg",
+    "static/media/Group 39751.png": "/golfc-test/static/media/Group 39751.a0247359fe66490dfe27.png",
+    "static/media/Logo.png": "/golfc-test/static/media/Logo.c9a3cb0bdcca99bf9064.png",
+    "static/media/Frame 4796.png": "/golfc-test/static/media/Frame 4796.f8da9471640645ffc3e0.png",
+    "static/media/Frame 4795 (1).png": "/golfc-test/static/media/Frame 4795 (1).9325640c6c8e15698566.png",
+    "static/media/Frame 4797 (1).png": "/golfc-test/static/media/Frame 4797 (1).6756ce0bd117879b820e.png",
+    "static/media/CarbonaTest-BlackSlanted.otf": "/golfc-test/static/media/CarbonaTest-BlackSlanted.66558cf7a320405e0ece.otf",
+    "static/media/CarbonaTest-Medium.otf": "/golfc-test/static/media/CarbonaTest-Medium.92ceee7cab67a2a3e3b3.otf",
+    "index.html": "/golfc-test/index.html",
+    "static/media/Rectangle 866.svg": "/golfc-test/static/media/Rectangle 866.9ce6d6448a4406b8e9748866dec68750.svg",
+    "main.f5fb660c.css.map": "/golfc-test/static/css/main.f5fb660c.css.map",
+    "main.c50dc3b8.js.map": "/golfc-test/static/js/main.c50dc3b8.js.map",
+    "453.9a528691.chunk.js.map": "/golfc-test/static/js/453.9a528691.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5fb660c.css",
+    "static/js/main.c50dc3b8.js"
+  ]
+}
