@@ -1,10 +1,9 @@
 import React from 'react';
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import Frame1 from'../imagens/Frame 4808 (2).svg'
-import Frame2 from'../imagens/Frame 4827 (5).jpg'
-import Frame3 from'../imagens/Frame 4828 (1).svg'
-
+import Frame1 from '../imagens/pixlr-image-generator-a2aff873-1e5b-4f6f-98a4-06278459a98e 1.webp';
+import Frame2 from '../imagens/pixlr-image-generator-47e9f9d9-3e2d-4242-9c49-084391873b20 1.jpg';
+import Frame3 from '../imagens/pixlr-image-generator-8ec3e110-1192-453f-8360-e8cb6a496229 1 (1).webp';
 const CarouselHome = () => {
   const responsive = {
     desktop: {
@@ -38,7 +37,7 @@ const CarouselHome = () => {
          infinite={true}
          autoPlay={true}
         autoPlaySpeed={3000}
-          className=' md:w-[100%]  '
+          className=' md:w-[90%]  rounded-xl'
           partialVisible={true}
           draggable={true}
      
@@ -46,9 +45,9 @@ const CarouselHome = () => {
            responsive={responsive}
            showDots={true}
        >
-          <img src={Frame1} alt="" className='' />
-          <img src={Frame2} alt="" className='' />
-          <img src={Frame3} alt=""  className='' />
+          <img src={Frame1} alt="" className='md:mt-[3%]' />
+          <img src={Frame2} alt="" className='md:mt-[3%]' />
+          <img src={Frame3} alt=""  className='md:mt-[3%]' />
           
     </Carousel>
     

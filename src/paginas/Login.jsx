@@ -38,7 +38,7 @@ const Login = () => {
         <input
           type="text"
           placeholder="exemplo@golfc.com"
-          className="w-[98%] h-[50px] text-white bg-transparent border border-white rounded-2xl px-2 "
+          className="w-[98%] h-[8%] text-white bg-transparent border border-white rounded-2xl px-2 "
         />
 
 <div className="mb-4 mt-2 ">
@@ -81,12 +81,13 @@ const Login = () => {
           
         
         </div>
-    
+        <Link to={"/HomeLogada"}>
         <button
-          className="w-[98%] h-[50px] bg-Verde-Gol text-white font-Carbona rounded-2xl hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-75 mb-4"
+          className="w-[98%] h-[80%] bg-Verde-Gol text-white font-Carbona rounded-2xl hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-75 mb-4"
         >
           Entrar
-        </button>
+        </button> 
+        </Link>
         <Link to={"/RecuperaçãoSenha"}>
         <div className="text-white text-base mb-2 text-center w-full hover:underline">  Esqueceu sua senha? </div>
         </Link>

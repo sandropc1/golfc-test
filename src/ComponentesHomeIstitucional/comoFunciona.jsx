@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import LogoBranca from '../imagens/logo 05 6.svg'
 import Ficha from '../imagens/Frame 4797 (1).png'
 import cartao from '../imagens/Frame 4795 (1).png'
@@ -23,20 +23,6 @@ const ComoFunciona = () => {
   }
  
  
-  const [isVisible, setIsVisible] = useState(true);
-
-  useEffect(() => {
-    const handleResize = () => {
-      const larguraTela = window.innerWidth;
-      setIsVisible(larguraTela >= 640);
-    };
-
-    window.addEventListener('resize', handleResize);
-
-    return () => {
-      window.removeEventListener('resize', handleResize);
-    };
-  }, []);
 
   return (
     <div className=' flex flex-col  bg-Estadio text-white bg-cover '>
@@ -51,7 +37,7 @@ const ComoFunciona = () => {
         <div className="flex flex-col   items-center justify-center">
           {Object.values(nome).map((item, index) => (
             <div key={index}  className=" border flex md:h-[15%]   w-[90%] md:w-[60%] mt-[2%]  border-white rounded-md p-4">
-             <img src={item.img} alt="" className="w-[10%] h-[10%]" />
+             <img src={item.img} alt="" className="w-[20%] md:w-[10%] md:h-[10%] h-[30%]" />
               
               
               <div className="flex flex-col  ml-[3%]">
