@@ -11,7 +11,7 @@ import HomeLogada from './paginas/homeLogada'
 const App = () => {
   return (
    
-   <Router>
+   <Router basename={process.env.PUBLIC_URL}>
     <Routes>
       <Route path='/' element={<Home/>}/>
       <Route path='/Login' element={<Login/>}/>
